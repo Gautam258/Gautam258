@@ -1,8 +1,7 @@
 # 💫 About Me:
-Hi there! 👋 I'm Gautam Bollu<br>
-💻Hi, I'm Gautam Bollu — an MSc IT student and aspiring Data Analyst with a deep passion for data storytelling and problem solving.<br>
-💡 I enjoy turning raw data into meaningful insights using tools like Python, SQL, and Power BI.<br>
-📊 Skilled in Pandas, NumPy, Matplotlib, Seaborn, and Statistical Analysis.<br>
-🔍 My interests lie in data visualization, machine learning, and building dashboards that drive decisions.<br>
-🚀 Always curious, always learning — currently exploring projects in  predictive modeling.
+Hi there! 👋 I'm Gautam Bollu, an MSc IT student and aspiring Data Analyst passionate about turning complex data into actionable insights.<br>
+💡 I love transforming raw datasets into meaningful stories using tools like Python, SQL, and Power BI.<br>
+📊 I’m skilled in Pandas, NumPy, Matplotlib, Seaborn, and Statistical Analysis, and I have hands-on experience with data cleaning, EDA, and dashboard creation.<br>
+🔍 My key interests include data visualization, machine learning, and building user-friendly dashboards that support informed business decisions.<br>
+🚀 I'm always curious and constantly learning — currently exploring real-world projects in predictive modeling and data-driven storytelling.
 
